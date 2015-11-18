@@ -18,6 +18,18 @@
     "revision": "cm-13.0"
   },
   {
+    "remote": "CyanogenMod",
+    "repository": "android_hardware_sony_thermanager",
+    "target_path": "hardware/sony/thermanager",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "CyanogenMod",
+    "repository": "android_hardware_sony_timekeep",
+    "target_path": "hardware/sony/timekeep",
+    "revision": "cm-13.0"
+  },
+  {
     "remote": "tm",
     "repository": "proprietary_vendor_lge",
     "target_path": "vendor/lge",
